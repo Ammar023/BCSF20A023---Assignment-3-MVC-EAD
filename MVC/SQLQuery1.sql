@@ -1,0 +1,3 @@
+﻿CREATE USER Ammar123 WITHOUT LOGIN;
+ALTER ROLE DatabaseEditorRole ADD MEMBER Ammar123;
+
