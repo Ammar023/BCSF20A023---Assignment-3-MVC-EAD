@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 
 
-//  Here I add the the field like Roll NO and Email in the Student Class
+
 
 using (var context = new MyContext())
 
@@ -34,7 +34,7 @@ using (var context = new MyContext())
 
 
 
-    // The following code show that I add some fields in the Students Table
+    // The following code show that I add some fields like Roll NO , Email in the Students Table
     
         var student1 = new Student()
         {
