@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fa487\\Desktop\\AB\\BCSF20A023 - Assignment 3-MVC\\MVC\\MVC\\MVC.csproj": {}
+    "C:\\Users\\fa487\\Desktop\\MVC\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fa487\\Desktop\\AB\\BCSF20A023 - Assignment 3-MVC\\MVC\\MVC\\MVC.csproj": {
+    "C:\\Users\\fa487\\Desktop\\MVC\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fa487\\Desktop\\AB\\BCSF20A023 - Assignment 3-MVC\\MVC\\MVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\fa487\\Desktop\\MVC\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\fa487\\Desktop\\AB\\BCSF20A023 - Assignment 3-MVC\\MVC\\MVC\\MVC.csproj",
+        "projectPath": "C:\\Users\\fa487\\Desktop\\MVC\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\fa487\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fa487\\Desktop\\AB\\BCSF20A023 - Assignment 3-MVC\\MVC\\MVC\\obj\\",
+        "outputPath": "C:\\Users\\fa487\\Desktop\\MVC\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fa487\\AppData\\Roaming\\NuGet\\NuGet.Config",

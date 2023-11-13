@@ -12,11 +12,7 @@ using (var context = new MyContext())
 {
 
     // Here I Edit the fields of Table of DataBase by Write the Code
-
-    // Here I Update the Last Name of Students Table Of Id 16
-
-
-   /* 
+    // Here I update the Last Name of Students Table Of Id 16
     int stdID = 16;
     
     var st = context.Students!.Find(stdID);
@@ -33,25 +29,7 @@ using (var context = new MyContext())
         context.SaveChanges();
     }
 
-    */
-
-   //   Here I update the by Using the Update Query
-
-    int stdID = 16;
-string newLastName = "Ba";
-
-// Execute raw SQL update query
-int rows = context.Database.ExecuteSqlRaw($"UPDATE Students SET LastName = '{newLastName}' WHERE ID = {stdID}");
-
-if (rows > 0)
-{
-    Console.WriteLine("Update successful");
-}
-else
-{
-    Console.WriteLine("No records updated");
-}
-
+    
 
 
 
